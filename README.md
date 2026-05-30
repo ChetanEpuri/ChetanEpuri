@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,30:001a12,60:002a1e,100:00c896&height=280&section=header&text=CHETAN%20EPURI&fontSize=72&fontFamily=Orbitron&fontColor=ffffff&fontAlignY=52&desc=CS%20%C2%B7%20IoT%20%C2%B7%20AI%20%C2%B7%20DevOps%20%C2%B7%20Open%20to%20Opportunities&descAlignY=72&descSize=13&animation=fadeIn" width="100%" />
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=kubectl+get+pods+--all-namespaces+%7C+grep+Running;terraform+apply+-auto-approve+%2F%2F+prod;argocd+app+sync+%2F%2F+self-healing+active;prometheus+alerts+firing%3A+0+%2F%2F+nominal;git+push+origin+main+%2F%2F+pipeline+triggered" alt="Typing SVG" />
   </a>
