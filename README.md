@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Chetan Epuri">
+  <img src="./banner.png"
+       alt="CHETAN EPURI Banner"
+       width="100%"
+       style="max-height:185px; object-fit:cover;">
 </div>
 
 <br>
