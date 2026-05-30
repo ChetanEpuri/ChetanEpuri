@@ -1,8 +1,7 @@
 <div align="center">
   <img src="./banner.png"
        alt="CHETAN EPURI Banner"
-       width="100%"
-       style="max-height:185px; object-fit:cover;">
+       width="100%"">
 </div>
 
 <br>
