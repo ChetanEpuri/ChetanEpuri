@@ -154,7 +154,7 @@
 <div align="center">
 
 <sub>
-Building cloud-native systems · automating everything · learning continuously
+Building cloud-native systems · automating everything · Star repos that resonate!
 </sub>
 
 </div>
