@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1a1200,60:0a0900,100:0d1117&height=280&section=header&text=CHETAN%20EPURI&fontSize=72&fontFamily=Bebas%20Neue&fontColor=ffffff&fontAlignY=55&desc=CS%20%C2%B7%20IoT%20%C2%B7%20AI%20%C2%B7%20DevOps%20%C2%B7%20Open%20to%20Opportunities&descAlignY=75&descSize=14&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0a0600,50:1a1000,75:0a0600,100:000000&height=300&section=header&text=CHETAN%20EPURI&fontSize=80&fontFamily=Bebas%20Neue&fontColor=ffffff&fontAlignY=52&desc=CS%20%C2%B7%20IoT%20%C2%B7%20AI%20%C2%B7%20DevOps%20%C2%B7%20Open%20to%20Opportunities&descAlignY=70&descSize=13&animation=fadeIn&reversal=true" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&pause=1200&color=FFC200&center=true&vCenter=true&multiline=false&width=500&lines=%E2%96%B8+shipping+infrastructure+at+0d+3h+14m+runtime;%E2%96%B8+self-healing+systems+since+2023;%E2%96%B8+K8s+%2B+ArgoCD+%2B+zero+3am+pages" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -9,14 +15,14 @@
 <td width="60%" valign="top">
 
 ▸ &nbsp;Ships infrastructure that self-heals at 3am so I don't have to  
-▸ &nbsp;Reads docs the same way others read fiction  
-▸ &nbsp;Obsessed with the gap between _"works locally"_ and _"works in prod"_  
+▸ &nbsp;Reads docs the same way other people read fiction  
+▸ &nbsp;Obsessed with the gap between *"works locally"* and *"works in prod"*  
 ▸ &nbsp;Building things that make the complex feel inevitable
 
 </td>
 <td width="40%" valign="top" align="right">
 
-![Views](https://komarev.com/ghpvc/?username=ChetanEpuri&label=Profile+Views&color=0d1117&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ChetanEpuri&label=Profile+Views&color=0d1117&style=flat)
 
 </td>
 </tr>
@@ -28,45 +34,46 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB&color=161b22)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=ED8B00&color=161b22)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=00599C&color=161b22)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E&color=161b22)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnubash&logoColor=4EAA25&color=161b22)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **DevOps & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazonwebservices&logoColor=FF9900&color=161b22)
-![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat&logo=terraform&logoColor=7B42BC&color=161b22)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat&logo=kubernetes&logoColor=326CE5&color=161b22)
-![Helm](https://img.shields.io/badge/Helm-0d1117?style=flat&logo=helm&logoColor=0F1689&color=161b22)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-0d1117?style=flat&logo=argo&logoColor=EF7B4D&color=161b22)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED&color=161b22)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=flat&logo=prometheus&logoColor=E6522C&color=161b22)
-![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=flat&logo=grafana&logoColor=F46800&color=161b22)
-![AlertManager](https://img.shields.io/badge/AlertManager-0d1117?style=flat&logo=prometheus&logoColor=E6522C&color=161b22)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![AlertManager](https://img.shields.io/badge/AlertManager-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 **AI & Automation**
 
-![Anthropic MCP](https://img.shields.io/badge/Anthropic_MCP-0d1117?style=flat&logo=anthropic&logoColor=C47B4A&color=161b22)
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat&logo=n8n&logoColor=EA4B71&color=161b22)
-![LLM Tooling](https://img.shields.io/badge/LLM_Tooling-0d1117?style=flat&logo=openai&logoColor=412991&color=161b22)
+![Anthropic MCP](https://img.shields.io/badge/Anthropic_MCP-C47B4A?style=flat-square&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LLM Tooling](https://img.shields.io/badge/LLM_Tooling-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Web**
 
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=ffffff&color=161b22)
-![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat&logo=threedotjs&logoColor=ffffff&color=161b22)
-![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=flat&logo=greensock&logoColor=88CE02&color=161b22)
-![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-0d1117?style=flat&logo=html5&logoColor=E34F26&color=161b22)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Certifications**
 
-![Oracle OCI GenAI](https://img.shields.io/badge/Oracle_OCI_GenAI-F80000?style=flat&logo=oracle&logoColor=white)
-![Anthropic MCP](https://img.shields.io/badge/Anthropic_MCP_Certified-C47B4A?style=flat&logo=anthropic&logoColor=white)
-![Jio Networks](https://img.shields.io/badge/Jio_Networks_Intern_(4G%2F5G)-0070C0?style=flat&logo=jio&logoColor=white)
+![Oracle OCI GenAI](https://img.shields.io/badge/Oracle_OCI_GenAI-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Anthropic MCP](https://img.shields.io/badge/Anthropic_MCP_Certified-C47B4A?style=flat-square&logo=anthropic&logoColor=white)
+![Jio Networks](https://img.shields.io/badge/Jio_Networks_Intern_(4G%2F5G)-0070C0?style=flat-square&logoColor=white)
 
 ---
 
@@ -85,7 +92,7 @@ CLI automation framework on Anthropic's Model Context Protocol. Modular Python a
 `MCP` `Python` `CLI` `AI`
 
 **n8n AI Agent** *(in progress)*  
-Multi-agent automation system integrating Azure, external APIs, and LLM reasoning for end-to-end workflow orchestration.  
+Multi-agent automation system integrating Azure, external APIs, and LLM reasoning for end-to-end orchestration.  
 `n8n` `Azure` `LLM` `Agents`
 
 ---
@@ -93,21 +100,21 @@ Multi-agent automation system integrating Azure, external APIs, and LLM reasonin
 ## GitHub Analytics
 
 <div align="center">
-<table cellpadding="8" cellspacing="0">
-<tr>
-<td align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChetanEpuri&theme=github_dark" height="175" />
-</td>
-<td align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChetanEpuri&theme=github_dark" height="175" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChetanEpuri&theme=github_dark" height="175" />
-</td>
-</tr>
-</table>
+
+<a href="https://github.com/ChetanEpuri">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChetanEpuri&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=ffc200&icon_color=ffc200&text_color=c9d1d9" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanEpuri&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=ffc200&text_color=c9d1d9" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanEpuri&theme=github-dark-blue&hide_border=true&background=161b22&ring=ffc200&fire=ffc200&currStreakLabel=ffc200" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanEpuri&theme=github-compact&hide_border=true&bg_color=161b22&color=ffc200&line=ffc200&point=ffffff&area=true" />
+
 </div>
 
 ---
@@ -115,9 +122,9 @@ Multi-agent automation system integrating Azure, external APIs, and LLM reasonin
 <div align="center">
   <em>"Engineering is the closest thing we have to rewriting reality."</em>
   <br/><br/>
-  <sub>⭐ star what resonates · open to collabs and opportunities</sub>
+  <sub>⭐ star what resonates &nbsp;·&nbsp; open to collabs and opportunities</sub>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0900,70:1a1200,100:000000&height=140&section=footer&reversal=false" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0600,60:1a1000,100:0d1117&height=160&section=footer&reversal=true" width="100%" />
 </div>
