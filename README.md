@@ -96,39 +96,6 @@
 
 ---
 
-## Selected Projects
-
-### 🚀 Modern DevOps Project
-
-Production-ready DevSecOps implementation on AWS EKS featuring GitOps deployment, security scanning, observability, and automated delivery.
-
-**Stack**
-
-`AWS` `EKS` `Terraform` `Docker` `ArgoCD` `Prometheus`
-
-🔗 https://github.com/ChetanEpuri/modern-devops-project
-
----
-
-### 🌌 EVENT HORIZON
-
-Interactive black hole and gravitational lensing simulator built with numerical integration and real-time rendering.
-
-**Stack**
-
-`JavaScript` `Canvas` `Physics` `RK4`
-
-🔗 https://chetanepuri.github.io/EVENT-HORIZON
-
----
-
-### 🤖 MCP Automation Tool
-
-Automation framework built using Anthropic's Model Context Protocol for AI-powered workflows.
-
-**Stack**
-
-`Python` `MCP` `Automation`
 
 ---
 
