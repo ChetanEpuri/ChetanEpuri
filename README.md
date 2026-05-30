@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="./banner.png"
-       alt="CHETAN EPURI Banner"
-       width="100%"">
+<img src="./banner.png" alt="CHETAN EPURI Banner" width="100%">
 </div>
 
 <br>
