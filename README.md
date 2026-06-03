@@ -49,7 +49,6 @@
 </table>
 
 ----
------
 
 ## Tech Stack
 
