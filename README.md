@@ -48,64 +48,7 @@
 </tr>
 </table>
 
------
-
-## Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 GitOps E-Commerce Platform
-
-> Production-grade DevSecOps platform — CI/CD, Kubernetes, GitOps, Observability
-
-**What it does:**
-A complete 5-phase DevOps system built from scratch. Every git push triggers automated security scanning, builds a Docker image, and deploys to AWS EKS via ArgoCD — with full Prometheus/Grafana observability and Slack alerting.
-
-**Stack:**
-`GitHub Actions` `Docker` `Terraform` `AWS EKS` `Kubernetes` `Helm` `ArgoCD` `Prometheus` `Grafana` `AlertManager` `TruffleHog` `Trivy`
-
-**Highlights:**
-
-- DevSecOps pipeline with TruffleHog, Safety, and Trivy security gates
-- Multi-tier AWS infrastructure provisioned entirely via Terraform IaC
-- GitOps deployment with ArgoCD self-healing and automated rollback
-- HPA auto-scaling 2→5 pods at 70% CPU threshold
-- Full observability stack with custom PromQL metrics and Slack alerts
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanEpuri/modern-devops-project)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏗️ DevOps Engineering Platform
-
-> Internal Developer Platform built with Backstage — catalog, docs, golden path templates
-
-**What it does:**
-A full Internal Developer Platform where engineers discover services, read live documentation, monitor CI/CD pipelines, and scaffold production-ready microservices in under 60 seconds — the same pattern used at Spotify, Google, and Netflix.
-
-**Stack:**
-`Backstage` `TypeScript` `React` `Node.js` `GitHub API` `TechDocs` `MkDocs`
-
-**Highlights:**
-
-- Software catalog registering production services with live GitHub data
-- EntityGitHubActionsContent surfacing CI/CD pipeline status per service
-- TechDocs rendering docs-as-code from Git directly in the portal
-- Golden path template scaffolding new microservices with Docker, CI pipeline, and Prometheus pre-configured
-- One-click service creation that auto-registers in the catalog
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanEpuri/devops-platform)
-
-</td>
-
-</tr>
-</table>
-
+----
 -----
 
 ## Tech Stack
