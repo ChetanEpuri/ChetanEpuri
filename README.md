@@ -9,17 +9,18 @@
 
 <td width="65%" valign="top">
 
-## Hey, I'm Chetan 👋
+## Hey, I’m Chetan 👋
 
 > **cs · cloud · devops · ai · building things**
 
-* I enjoy solving the problems that exist between development and production
-* I spend more time in terminals than browsers
-* I like automating repetitive work
-* I enjoy building systems that keep running when nobody is watching
-* Currently exploring platform engineering, AI agents, and cloud-native systems
+- I enjoy solving the problems that exist between development and production
+- I spend more time in terminals than browsers
+- I like automating repetitive work
+- I enjoy building systems that keep running when nobody is watching
+- Currently exploring platform engineering, AI agents, and cloud-native systems
 
 <br>
+
 
 > Philosophy
 
@@ -35,18 +36,77 @@
 
 ### Current Focus
 
-* ☁️ Cloud Engineering
-* 🚀 Kubernetes & GitOps
-* 🤖 AI Agents & MCP
-* 🔐 DevSecOps
-* 📊 Observability
+- ☁️ Cloud Engineering
+- 🚀 Kubernetes & GitOps
+- 🤖 AI Agents & MCP
+- 🔐 DevSecOps
+- 📊 Observability
+- 🏗️ Platform Engineering
 
 </td>
 
 </tr>
 </table>
 
----
+-----
+
+## Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 GitOps E-Commerce Platform
+
+> Production-grade DevSecOps platform — CI/CD, Kubernetes, GitOps, Observability
+
+**What it does:**
+A complete 5-phase DevOps system built from scratch. Every git push triggers automated security scanning, builds a Docker image, and deploys to AWS EKS via ArgoCD — with full Prometheus/Grafana observability and Slack alerting.
+
+**Stack:**
+`GitHub Actions` `Docker` `Terraform` `AWS EKS` `Kubernetes` `Helm` `ArgoCD` `Prometheus` `Grafana` `AlertManager` `TruffleHog` `Trivy`
+
+**Highlights:**
+
+- DevSecOps pipeline with TruffleHog, Safety, and Trivy security gates
+- Multi-tier AWS infrastructure provisioned entirely via Terraform IaC
+- GitOps deployment with ArgoCD self-healing and automated rollback
+- HPA auto-scaling 2→5 pods at 70% CPU threshold
+- Full observability stack with custom PromQL metrics and Slack alerts
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanEpuri/modern-devops-project)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ DevOps Engineering Platform
+
+> Internal Developer Platform built with Backstage — catalog, docs, golden path templates
+
+**What it does:**
+A full Internal Developer Platform where engineers discover services, read live documentation, monitor CI/CD pipelines, and scaffold production-ready microservices in under 60 seconds — the same pattern used at Spotify, Google, and Netflix.
+
+**Stack:**
+`Backstage` `TypeScript` `React` `Node.js` `GitHub API` `TechDocs` `MkDocs`
+
+**Highlights:**
+
+- Software catalog registering production services with live GitHub data
+- EntityGitHubActionsContent surfacing CI/CD pipeline status per service
+- TechDocs rendering docs-as-code from Git directly in the portal
+- Golden path template scaffolding new microservices with Docker, CI pipeline, and Prometheus pre-configured
+- One-click service creation that auto-registers in the catalog
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanEpuri/devops-platform)
+
+</td>
+
+</tr>
+</table>
+
+-----
 
 ## Tech Stack
 
@@ -54,11 +114,12 @@
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 
@@ -66,12 +127,23 @@
 
 <div align="left">
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black)
+
+</div>
+
+### Security
+
+<div align="left">
+
+![TruffleHog](https://img.shields.io/badge/TruffleHog-FF0000?style=for-the-badge&logo=trufflesecurity&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
 
 </div>
 
@@ -79,8 +151,8 @@
 
 <div align="left">
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
 
@@ -88,16 +160,13 @@
 
 <div align="left">
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-C47B4A?style=for-the-badge\&logo=anthropic\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-C47B4A?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
----
-
-
----
+-----
 
 ## GitHub Analytics
 
@@ -129,7 +198,7 @@
 
 </div>
 
----
+-----
 
 ## Connect
 
